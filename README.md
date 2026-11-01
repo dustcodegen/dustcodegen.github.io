@@ -22,7 +22,7 @@ Copy the validated `dist/` contents (including `.nojekyll`) into a clean
 deployment branch, review the diff and merge its pull request. Remove obsolete
 generated assets when replacing a later build, not repository metadata.
 
-Current website source commit: `cae0d7e3618c37a924738447b3def9f92ab85a83`.
+Current website source commit: `d1358c769bdcdd7e1faab653ee63a74ab38531fa`.
 The source migration commit is retained in the local source worktree; this
 repository deliberately does not import the archive's history or workflows.
 Dust source and documentation links point to
